@@ -15,4 +15,14 @@ Create visualizations using a histogram and a bar chart to understand the distri
 🔧 Libraries Used:
 - pandas
 - matplotlib
+ 📝 Conclusion:
+
+Through this task, I explored basic data visualization techniques to understand the distribution of numerical features using histograms, and categorical counts using bar charts.
+
+These charts help in:
+- Detecting skewness in data
+- Understanding class imbalance
+- Gaining insights quickly before modeling
+
+This task enhanced my skills in data exploration, visualization, and working with real-world datasets using Python and Matplotlib.
 
